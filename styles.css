@@ -1,0 +1,41 @@
+h1 {
+  font-family: "Dancing Script", cursive;
+}
+
+.cuadrado {
+  position: relative;
+  height: 100px;
+  width: 100px;
+  background-color: #eceff1;
+}
+
+.uno {
+  position: absolute;
+  background-color: #f8bbd0;
+  height: 25px;
+  width: 25px;
+}
+.dos {
+  background-color: #e1bee7;
+  height: 25px;
+  width: 25px;
+  position: absolute;
+  bottom: 50px;
+  left: 25px;
+}
+.tres {
+  background-color: #b2dfdb;
+  height: 25px;
+  width: 25px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+.cuatro {
+  background-color: #f0f4c3;
+  height: 25px;
+  width: 25px;
+  position: absolute;
+  top: 75px;
+  left: 75px;
+}
